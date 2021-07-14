@@ -1,6 +1,6 @@
 ### Hi I am 雾山. 👋
 
-![一名前端开发工程师](https://aj.pages.dev)
+[一名前端开发工程师](https://aj.pages.dev)
 
 ### My GitHub Stats & Languages
 
