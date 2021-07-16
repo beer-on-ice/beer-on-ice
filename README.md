@@ -1,7 +1,7 @@
 ### Hi I am 雾山. 👋
 
 [一名前端开发工程师](https://www.666986.xyz)
-[站点导航](https://aj.pages.dev)
+[个人站点导航](https://hillroad.pages.dev)
 
 ### My GitHub Stats & Languages
 
