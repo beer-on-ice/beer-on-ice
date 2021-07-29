@@ -8,7 +8,7 @@
 [个人站点导航](https://missss.net) <br/>
 [我的博客](https://blog.missss.net)
 
-### My GitHub Stats & Languages
+### 我的 github 状态
 
 ![Stats](https://readme-steel.vercel.app/api?username=beer-on-ice&include_all_commits=true&hide_border=true&theme=kacho_ga) 
 
