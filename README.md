@@ -51,9 +51,9 @@ Quantitative trading strategy with Php<br/>
 - ☁️ <a href = "https://pan.missss.net/">云盘</a>
 - 📖 <a href = "https://blog.missss.net/">Blog</a>
 
-<details>
+📊 Weekly development breakdown <details>
 
-### <summary>Wakatime 统计信息</summary>
+<summary>Wakatime 统计信息</summary>
 
   <!--START_SECTION:waka-->
 ```text
