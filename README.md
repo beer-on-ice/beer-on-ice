@@ -57,8 +57,8 @@
 ![Stats](https://readme-steel.vercel.app/api?username=beer-on-ice&include_all_commits=true&hide_border=true&theme=kacho_ga) 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=beer-on-ice&theme=highcontrast) 
 
-<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
-
+<!-- <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'> -->
+<img align='right' alt="Banner | JeanCarlos911" src="https://i.imgur.com/34fiEUG.gif" />
 ![Languages](https://readme-steel.vercel.app/api/top-langs/?username=beer-on-ice&&show_icons=true&hide_border=true&theme=graywhite&layout=compact&langs_count=8&exclude_repo=CloudflareWarp)
 
 ### 🎮🕹 Games
