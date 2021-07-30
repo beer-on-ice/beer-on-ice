@@ -50,12 +50,13 @@ Quantitative trading strategy with Python
 
 - 💬 Ask me about anything.
 - 📧 <a href="mailto:li997477295@outlook.com">Email</a>
-- 💼 <a href= "https://missss.net/">Nav</a>
+- 💼 <a href= "https://missss.net/">导航</a>
 - ☁️ <a href = "https://pan.missss.net/">云盘</a>
 - 📖 <a href = "https://blog.missss.net/">Blog</a>
 
 <details>
 
+### 📫 Wakatime 
 <summary>Wakatime 统计信息</summary>
 
   <!--START_SECTION:waka-->
