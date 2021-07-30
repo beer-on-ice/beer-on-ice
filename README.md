@@ -19,7 +19,7 @@
   <img src="https://profile-counter.glitch.me/beer-on-ice/count.svg" />
 </p>
 
-🎉欢迎来到我的Github!我是雾山😃。我热爱编程，是一名前端开发工程师，对网络开发、机器学习和开源🔥充满热情。我喜欢探索和学习任何新事物❤️。
+🎉欢迎来到我的Github!我是雾山😃。我热爱编程，是一名前端开发工程师，对前端开发、Linux、嵌入式和开源🔥充满热情。我喜欢探索和学习任何新事物❤️。
 
 ### ⚡ Technologies
 
