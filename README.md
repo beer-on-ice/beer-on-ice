@@ -21,9 +21,6 @@
 
 🎉欢迎来到我的Github!我是雾山😃。我热爱编程，是一名前端开发工程师，对网络开发、机器学习和开源🔥充满热情。我喜欢探索和学习任何新事物❤️。
 
-[个人站点导航](https://missss.net) <br/>
-[我的博客](https://blog.missss.net)
-
 ⚡ Technologies
 
 Talk to me about
