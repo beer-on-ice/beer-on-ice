@@ -1,6 +1,5 @@
-# Hi There. 👋🤓 
-<!-- <img align="center" src="https://profile-counter.glitch.me/beer-on-ice/count.svg" /> -->
-![](http://antzuhl.cn:4000/get/@beer-on-ice.readme)
+# Hi There. 👋🤓  <img align="center" src="https://profile-counter.glitch.me/beer-on-ice/count.svg" />
+
  <p>
   <img src="http://views.whatilearened.today/views/github/beer-on-ice/views.svg"/>
   <a href="https://github.com/beer-on-ice/"><img src="https://img.shields.io/github/followers/beer-on-ice?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
