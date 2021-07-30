@@ -48,7 +48,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![LaTeX](http://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=ffffff)
 ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
-![FreeBSD](http://img.shields.io/badge/-Free%20BSD-AB2B28?style=flat-square&logo=freebsd&logoColor=ffffff)
+![Ubuntu](http://img.shields.io/badge/-Ubuntu-AB2B28?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![GNU Emacs](http://img.shields.io/badge/-GNU%20Emacs-7F5AB6?style=flat-square&logo=gnu-emacs&logoColor=ffffff)
 ![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-000000?style=flat-square&logo=gnu-bash&logoColor=ffffff)
 
@@ -57,11 +57,9 @@
 ![Stats](https://readme-steel.vercel.app/api?username=beer-on-ice&include_all_commits=true&hide_border=true&theme=kacho_ga) 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=beer-on-ice&theme=highcontrast) 
 
-<!-- <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'> -->
+<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
 <img align='right' alt="Banner | JeanCarlos911" src="https://i.imgur.com/34fiEUG.gif" />
-
 ![Languages](https://readme-steel.vercel.app/api/top-langs/?username=beer-on-ice&&show_icons=true&hide_border=true&theme=graywhite&layout=compact&langs_count=8&exclude_repo=CloudflareWarp)
-
 
 ### 🎮🕹 Games
 [<img src="https://img.shields.io/badge/playstation-%23107C10.svg?&style=for-the-badge&logo=playstation&logoColor=white" />](https://jeel/)
