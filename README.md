@@ -33,6 +33,7 @@
 ![Less](https://img.shields.io/badge/-Less-%23CC6699?style=flat-square&logo=Less&logoColor=ffffff)
 ![MpVue](http://img.shields.io/badge/-MpVue-CC0000?style=flat-square&logo=MpVue&logoColor=ffffff)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=00d632)
+![Uniapp](http://img.shields.io/badge/-Uniapp-000000?style=flat-square&logo=uniapp&logoColor=ffffff)
 
 
 #### Back-end:
@@ -50,7 +51,6 @@
 ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-AB2B28?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![GNU Emacs](http://img.shields.io/badge/-GNU%20Emacs-7F5AB6?style=flat-square&logo=gnu-emacs&logoColor=ffffff)
-![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-000000?style=flat-square&logo=gnu-bash&logoColor=ffffff)
 
 ### 👨‍💻 Open source work stats
 
