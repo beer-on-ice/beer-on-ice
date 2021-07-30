@@ -27,11 +27,11 @@
 ⚡ Technologies
 Talk to me about
 
-Front-end development using HTML, Javascript, CSS, Vue
-Backend development using Node.js, Php
-Proficient in website building, deployment using docker containers, ability to climb over walls
-Manage and maintain cloud server using Ali Cloud
-Quantitative trading strategy with Php
+Front-end development using HTML, Javascript, CSS, Vue<br/>
+Backend development using Node.js, Php<br/>
+Proficient in website building, deployment using docker containers, ability to climb over walls<br/>
+Manage and maintain cloud server using Ali Cloud<br/>
+Quantitative trading strategy with Php<br/>
 
 ### 👨‍💻 Open source work stats
 
