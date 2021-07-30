@@ -23,6 +23,11 @@
 <summary>Wakatime 统计信息</summary>
 
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+```text
+Week: 23 July, 2021 - 29 July, 2021
+
+Other   12 mins         █████████████████████████   100.00 % 
+```
+<!--END_SECTION:waka-->
 
 </details>
