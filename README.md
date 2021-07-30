@@ -15,7 +15,7 @@
  
 
 
-🎉欢迎来到我的Github!我是雾山😃。我热爱编程，是一名前端开发工程师，对网络开发、机器学习和开源🔥充满热情。我喜欢探索和学习任何新事物❤️。
+🎉欢迎来到我的Github!我是雾山😃。我热爱编程，是一名前端开发工程师，对前端开发、Linux、嵌入式和开源🔥充满热情。我喜欢探索和学习任何新事物❤️。
 
 ⚡ Technologies
 Talk to me about
@@ -42,13 +42,13 @@ Quantitative trading strategy with Php<br/>
 
 - 💬 Ask me about anything.
 - 📧 <a href="mailto:li997477295@outlook.com">Email</a>
-- 💼 <a href= "https://missss.net/">Nav</a>
+- 💼 <a href= "https://missss.net/">导航</a>
 - ☁️ <a href = "https://pan.missss.net/">云盘</a>
 - 📖 <a href = "https://blog.missss.net/">Blog</a>
 
 <details>
 
-<summary>Wakatime 统计信息</summary>
+<summary>📊 Weekly development breakdown</summary>
 
   <!--START_SECTION:waka-->
 ```text
