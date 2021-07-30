@@ -80,7 +80,7 @@
 
 <summary>📊 Weekly development breakdown</summary>
 
-  <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 ```text
 Week: 23 July, 2021 - 29 July, 2021
 
@@ -88,6 +88,8 @@ Other   12 mins         ██████████████████�
 ```
 <!--END_SECTION:waka-->
 
+ <!-- steam-box start -->
+ <!-- steam-box end -->
 </details>
 
 Welcome to do ⭐ my repository if you find it interesting, at least your star could make me stay on track and be motivated.
