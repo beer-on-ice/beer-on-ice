@@ -1,4 +1,7 @@
-# Hi There. 👋🤓 <img src="https://profile-counter.glitch.me/beer-on-ice/count.svg" />
+# Hi There. 👋🤓 <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/beer-on-ice/count.svg" />
+</p>
  <p>
   <img src="http://views.whatilearened.today/views/github/beer-on-ice/views.svg"/>
   <a href="https://github.com/beer-on-ice/"><img src="https://img.shields.io/github/followers/beer-on-ice?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
@@ -13,6 +16,8 @@
   <img src="https://img.shields.io/website?label=Website%20status%20%3A&url=https%3A%2F%2Fdaniels-roth-stan.fr%2F"/>
  </p>
  
+
+
 🎉欢迎来到我的Github!我是雾山😃。我热爱编程，是一名前端开发工程师，对网络开发、机器学习和开源🔥充满热情。我喜欢探索和学习任何新事物❤️。
 
 ⚡ Technologies
