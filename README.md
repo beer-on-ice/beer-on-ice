@@ -4,7 +4,7 @@
   <a href="https://github.com/beer-on-ice/"><img src="https://img.shields.io/github/followers/beer-on-ice?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
   <a href="https://github.com/beer-on-ice/"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
   <a href="mailto:li997477295@outlook.com"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
-  <a href="https://reactjs.org"><img src="https://img.shields.io/badge/Front End-ReactJS-42b883"/></a>
+  <a href="https://www.vuejs.com"><img src="https://img.shields.io/badge/Front End-VUEJS-42b883"/></a>
   <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Back End-Node.js-f55247"/></a>
   <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/Database-MongoDB-orange"/></a>
   <a href="https://shields.io/"><img src="https://img.shields.io/badge/badges-awesome-green.svg"/></a>
@@ -27,36 +27,31 @@
 ⚡ Technologies
 Talk to me about
 
-Front-end development using HTML, Javascript, CSS, React
-Backend development using Node.js, Python
-Architecture design for Relational Database Management Systems like MySQL, Postgres as well as for NoSQL database systems like Cassandra, MongoDB and Neo4j
-Robust full-stack system design implementation
-Build kinds of models with Machine Learning and Deep Learning algorithms
+Front-end development using HTML, Javascript, CSS, Vue
+Backend development using Node.js, Php
+Proficient in website building, deployment using docker containers, ability to climb over walls
 Manage and maintain cloud server using Ali Cloud
-Solving Data structure and algorithm questions.
-Quantitative trading strategy with Python
+Quantitative trading strategy with Php
 
 ### 👨‍💻 Open source work stats
 
 ![Stats](https://readme-steel.vercel.app/api?username=beer-on-ice&include_all_commits=true&hide_border=true&theme=kacho_ga) 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beer-on-ice&theme=highcontrast" alt="mistyhill" /></p>
-
-![Languages](https://readme-steel.vercel.app/api/top-langs/?username=beer-on-ice&&show_icons=true&hide_border=true&theme=graywhite&layout=compact&langs_count=8&exclude_repo=CloudflareWarp)
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beer-on-ice&theme=highcontrast" alt="mistyhill" /></p>
+![Languages](https://readme-steel.vercel.app/api/top-langs/?username=beer-on-ice&&show_icons=true&hide_border=true&theme=graywhite&layout=compact&langs_count=8&exclude_repo=CloudflareWarp)
+
 
 
 ### 📫 Reach me 
 
 - 💬 Ask me about anything.
 - 📧 <a href="mailto:li997477295@outlook.com">Email</a>
-- 💼 <a href= "https://missss.net/">导航</a>
+- 💼 <a href= "https://missss.net/">Nav</a>
 - ☁️ <a href = "https://pan.missss.net/">云盘</a>
 - 📖 <a href = "https://blog.missss.net/">Blog</a>
 
 <details>
 
-### 📫 Wakatime 
 <summary>Wakatime 统计信息</summary>
 
   <!--START_SECTION:waka-->
