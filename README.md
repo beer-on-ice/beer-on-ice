@@ -22,6 +22,11 @@
 
 🎉欢迎来到我的Github!我是雾山😃。我热爱编程，是一名前端开发工程师，对前端开发、Linux、嵌入式和开源🔥充满热情。我喜欢探索和学习任何新事物❤️。
 
+### 👨‍💻 Open source work stats
+
+![Stats](https://readme-steel.vercel.app/api?username=beer-on-ice&include_all_commits=true&hide_border=true&theme=kacho_ga) 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=beer-on-ice&theme=highcontrast) 
+
 ### ⚡ Technologies <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 #### Front-end:
@@ -51,11 +56,6 @@
 ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-AB2B28?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![GNU Emacs](http://img.shields.io/badge/-GNU%20Emacs-7F5AB6?style=flat-square&logo=gnu-emacs&logoColor=ffffff)
-
-### 👨‍💻 Open source work stats
-
-![Stats](https://readme-steel.vercel.app/api?username=beer-on-ice&include_all_commits=true&hide_border=true&theme=kacho_ga) 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=beer-on-ice&theme=highcontrast) 
 
 <!-- <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'> -->
 <img align='right' alt="Banner | JeanCarlos911" src="https://i.imgur.com/34fiEUG.gif" />
