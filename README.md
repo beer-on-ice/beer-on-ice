@@ -12,10 +12,10 @@
   <a href="https://www.linkedin.com/in/%E9%94%A6-%E6%9D%8E-239a4b183/"><img src="https://img.shields.io/badge/LinkedIn-contact%20me-blue"></a>
   <a href="https://blog.missss.net"><img src="https://img.shields.io/badge/Blog-孤独的箭-red"></a>
   <img src="https://img.shields.io/website?label=Website%20status%20%3A&url=https%3A%2F%2Fdaniels-roth-stan.fr%2F"/>
-  [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
-  [![](https://img.shields.io/badge/apple-iphone-f5010c?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
-  ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
-  ![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
+  <a href="https://www.archlinux.org/"><img src="https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff"></a>
+  <a href="https://www.apple.com/"><img src="https://img.shields.io/badge/apple-iphone-f5010c?style=flat-square&logo=apple&logoColor=ffffff"></a>
+  <a href="javascript:;"><img src="https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff"></a>
+  <a href="javascript:;"><img src="https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff"></a>
  </p>
  
 
