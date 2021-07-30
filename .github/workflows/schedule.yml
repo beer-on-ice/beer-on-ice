@@ -1,6 +1,8 @@
 name: Waka Readme
  
 on:
+  watch:
+    types: started
   push:
     branches:
       - master
