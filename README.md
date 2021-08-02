@@ -90,11 +90,6 @@ JavaScript   10 mins         ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
- <!-- steam-box start -->
- <!-- steam-box end -->
- 
- <!-- netease-music-box start -->
- <!-- netease-music-box end -->
 </details>
 
 Welcome to do ⭐ my repository if you find it interesting, at least your star could make me stay on track and be motivated.
