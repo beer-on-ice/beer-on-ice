@@ -82,9 +82,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 August, 2021 - 27 August, 2021
+Week: 22 August, 2021 - 28 August, 2021
 
-Other   6 hrs 32 mins   █████████████████████████   100.00 % 
+Other   1 hr 46 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
