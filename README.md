@@ -82,9 +82,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 September, 2021 - 07 September, 2021
+Week: 02 September, 2021 - 08 September, 2021
 
-Other   5 hrs 8 mins    █████████████████████████   100.00 % 
+Other   1 hr 53 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
