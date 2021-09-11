@@ -82,7 +82,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 04 September, 2021 - 10 September, 2021
+
+JSON         57 mins         ██████████████████▓░░░░░░   75.31 % 
+JavaScript   16 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.34 % 
 ```
 <!--END_SECTION:waka-->
 
