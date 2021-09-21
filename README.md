@@ -82,9 +82,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 September, 2021 - 19 September, 2021
+Week: 14 September, 2021 - 20 September, 2021
 
-Vue.js       30 mins         ████████████████████████▓   98.74 % 
+
 ```
 <!--END_SECTION:waka-->
 
