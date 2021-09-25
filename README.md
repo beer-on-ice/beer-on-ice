@@ -82,9 +82,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 September, 2021 - 23 September, 2021
+Week: 18 September, 2021 - 24 September, 2021
 
-
+Vue.js       1 hr 4 mins     ███████████████████████░░   92.23 % 
+JavaScript   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+LESS         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 ```
 <!--END_SECTION:waka-->
 
