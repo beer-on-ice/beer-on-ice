@@ -82,7 +82,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 October, 2021 - 10 October, 2021
+Week: 05 October, 2021 - 11 October, 2021
 
 Bash   22 mins         ██████████████▓░░░░░░░░░░   58.46 % 
 JSON   15 mins         ██████████▒░░░░░░░░░░░░░░   41.54 % 
