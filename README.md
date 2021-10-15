@@ -82,10 +82,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 October, 2021 - 13 October, 2021
-
-Bash   22 mins         ██████████████▓░░░░░░░░░░   58.46 % 
-JSON   15 mins         ██████████▒░░░░░░░░░░░░░░   41.54 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
