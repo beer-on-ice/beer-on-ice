@@ -93,4 +93,7 @@ No Activity tracked this Week
 
 </details>
 
+## Analysis :point_down:
+![](https://github-profile-trophy.vercel.app/?username=beer-on-ice&theme=flat&column=7&margin-w=10)
+
 Welcome to do ⭐ my repository if you find it interesting, at least your star could make me stay on track and be motivated.
