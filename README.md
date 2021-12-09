@@ -87,7 +87,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 02 December, 2021 - 08 December, 2021
+
+JavaScript   3 mins          ██████████████████▒░░░░░░   73.62 % 
+Vue.js       1 min           ██████▓░░░░░░░░░░░░░░░░░░   26.38 % 
 ```
 <!--END_SECTION:waka-->
 
