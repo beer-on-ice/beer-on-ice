@@ -87,7 +87,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 December, 2021 - 08 December, 2021
+Week: 03 December, 2021 - 09 December, 2021
 
 JavaScript   3 mins          ██████████████████▒░░░░░░   73.62 % 
 Vue.js       1 min           ██████▓░░░░░░░░░░░░░░░░░░   26.38 % 
