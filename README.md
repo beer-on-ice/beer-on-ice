@@ -87,10 +87,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 December, 2021 - 10 December, 2021
+Week: 05 December, 2021 - 11 December, 2021
 
-JavaScript   21 mins         ███████████████████████▓░   94.31 % 
-Vue.js       1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+JavaScript   4 hrs 28 mins   ████████████████████████░   95.89 % 
+JSON         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Vue.js       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 <!--END_SECTION:waka-->
 
