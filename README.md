@@ -87,10 +87,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 December, 2021 - 21 December, 2021
+Week: 16 December, 2021 - 22 December, 2021
 
-Other        38 mins         █████████████░░░░░░░░░░░░   51.99 % 
-JavaScript   35 mins         ████████████░░░░░░░░░░░░░   47.99 % 
+JavaScript   2 hrs 56 mins   ████████████████████▒░░░░   81.70 % 
+Other        39 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.25 % 
 ```
 <!--END_SECTION:waka-->
 
