@@ -87,9 +87,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 January, 2022 - 29 January, 2022
-
-YAML   2 mins          ████████████████████████▒   97.94 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
