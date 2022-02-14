@@ -87,7 +87,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 07 February, 2022 - 13 February, 2022
+
+Other   26 mins         ██████████████████████░░░   87.49 % 
+YAML    3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
 ```
 <!--END_SECTION:waka-->
 
