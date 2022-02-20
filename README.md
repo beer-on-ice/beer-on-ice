@@ -87,10 +87,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 February, 2022 - 18 February, 2022
+Week: 13 February, 2022 - 19 February, 2022
 
-Other   26 mins         ██████████████████████░░░   87.69 % 
-YAML    3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Other      26 mins         ████████████████████▓░░░░   82.02 % 
+YAML       3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+Markdown   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
 ```
 <!--END_SECTION:waka-->
 
