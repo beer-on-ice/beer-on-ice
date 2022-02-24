@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/25942344?v=4" alt="MistyHill" width="200" height="auto">
+<img src="https://bafybeigmqnbbntvknlsusanaigpiumrpt5i3p6u3dtsp5l2luxemenn4e4.ipfs.cf-ipfs.com/" alt="MistyHill" width="200" height="auto">
 </p>
 <h1 align="center">Profiles</h1>
 
