@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.gravatar.com/avatar/28b21f2984a28cddf76a6914af713884?s=64&d=identicon" alt="MistyHill" width="200" height="auto">
+<img src="https://avatars.githubusercontent.com/u/25942344?v=4" alt="MistyHill" width="200" height="auto">
 </p>
 <h1 align="center">Profiles</h1>
 
