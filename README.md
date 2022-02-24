@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/NavePnow/blog_photo@private/trans123.png" alt="MistyHill" width="200">
+<img src="https://www.gravatar.com/avatar/28b21f2984a28cddf76a6914af713884?s=64&d=identicon" alt="MistyHill" width="200">
 </p>
 <h1 align="center">Profiles</h1>
 
