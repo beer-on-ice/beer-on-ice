@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.gravatar.com/avatar/28b21f2984a28cddf76a6914af713884?s=64&d=identicon" alt="MistyHill" width="200"  style="border-radius:50%">
+<img src="https://www.gravatar.com/avatar/28b21f2984a28cddf76a6914af713884?s=64&d=identicon" alt="MistyHill" width="200" height="auto"  style="border-radius:50%">
 </p>
 <h1 align="center">Profiles</h1>
 
