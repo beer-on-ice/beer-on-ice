@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://bafybeigmqnbbntvknlsusanaigpiumrpt5i3p6u3dtsp5l2luxemenn4e4.ipfs.cf-ipfs.com/" alt="MistyHill" width="200" height="auto" round>
+<img src="https://bafybeigmqnbbntvknlsusanaigpiumrpt5i3p6u3dtsp5l2luxemenn4e4.ipfs.cf-ipfs.com/" alt="MistyHill" width="200" height="auto"  style="border-radius:50%;">
 </p>
 <h1 align="center">Profiles</h1>
 
