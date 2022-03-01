@@ -87,9 +87,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 February, 2022 - 27 February, 2022
+Week: 22 February, 2022 - 28 February, 2022
 
-Bash   1 min           █████████████████████████   100.00 % 
+HTML   15 mins         ██████████████▓░░░░░░░░░░   59.18 % 
+CSS    5 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.12 % 
+JSON   2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Bash   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
 ```
 <!--END_SECTION:waka-->
 
