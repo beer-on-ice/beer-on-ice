@@ -87,7 +87,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 February, 2022 - 28 February, 2022
+Week: 23 February, 2022 - 01 March, 2022
 
 HTML   15 mins         ██████████████▓░░░░░░░░░░   59.18 % 
 CSS    5 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.12 % 
