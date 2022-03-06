@@ -87,7 +87,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 February, 2022 - 04 March, 2022
+Week: 27 February, 2022 - 05 March, 2022
 
 HTML    15 mins         ████████████░░░░░░░░░░░░░   48.07 % 
 Other   7 mins          ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
