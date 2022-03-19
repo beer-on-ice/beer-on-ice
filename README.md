@@ -87,10 +87,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 March, 2022 - 17 March, 2022
+Week: 12 March, 2022 - 18 March, 2022
 
-Other        43 mins         ███████████████████▒░░░░░   77.52 % 
-JavaScript   11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.36 % 
+JavaScript   44 mins         ████████████████▓░░░░░░░░   66.17 % 
+Other        21 mins         ████████░░░░░░░░░░░░░░░░░   32.02 % 
+HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 ```
 <!--END_SECTION:waka-->
 
