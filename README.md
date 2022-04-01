@@ -1,10 +1,10 @@
 <p align="center">
 <img src="https://telegra.ph/file/83592a3f35d636c09f3c4.png" alt="MistyHill" width="200" height="auto"  style="border-radius:50%;">
 </p>
+
 <!-- slogan -->
 <h1 align="center">
   <p>👍👍👍Make Javascript Great Again👍👍👍</p>
-  <br/>
   <br/>
   <p>Hi There. 👋🤓  <img align="center" src="https://profile-counter.glitch.me/beer-on-ice/count.svg" /></p>
 </h1>
@@ -16,6 +16,12 @@
   </a>
 </h1> -->
 
+🎉欢迎来到我的Github!我是雾山😃。我热爱编程，是一名前端开发工程师，对前端开发、Linux、嵌入式和开源🔥充满热情。我喜欢探索和学习任何新事物❤️, 。
+
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/beer-on-ice/beer-on-ice/assets/github-contribution-grid-snake.svg" /></div>
+
+<!-- 个人资料徽标 -->
 <p>
  <img src="http://views.whatilearened.today/views/github/beer-on-ice/views.svg"/>
  <a href="https://github.com/beer-on-ice/"><img src="https://img.shields.io/github/followers/beer-on-ice?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
@@ -34,11 +40,6 @@
  <a href="javascript:;"><img src="https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff"></a>
 </p>
  
-
-
-🎉欢迎来到我的Github!我是雾山😃。我热爱编程，是一名前端开发工程师，对前端开发、Linux、嵌入式和开源🔥充满热情。我喜欢探索和学习任何新事物❤️, 。
-
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/beer-on-ice/beer-on-ice/assets/github-contribution-grid-snake.svg" /></div>
 
 ### 👨‍💻 Open source work stats
 
