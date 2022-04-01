@@ -78,9 +78,9 @@
 
 - 💬 Ask me about anything.
 - 📧 <a href="mailto:li997477295@outlook.com">Email</a>
-- 💼 <a href= "https://missss.net/">导航</a>
-- ☁️ <a href = "https://pan.missss.net/">云盘</a>
-- 📖 <a href = "https://blog.missss.net/">Blog</a>
+- 💼 <a href= "https://nav.orcat.cn/">导航</a>
+- ☁️ <a href = "https://store.orcat.cn/">云盘</a>
+- 📖 <a href = "https://blog.orcat.cn/">Blog</a>
 
 <details>
 
