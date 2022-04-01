@@ -4,9 +4,9 @@
 
 <!-- slogan -->
 <h1 align="center">
-  <p>👍👍👍Make Javascript Great Again👍👍👍</p>
-  <br/>
   <p>Hi There. 👋🤓  <img align="center" src="https://profile-counter.glitch.me/beer-on-ice/count.svg" /></p>
+  <br/>
+  <p>👍👍👍Make Javascript Great Again👍👍👍</p>
 </h1>
 
 <!-- 动态打字效果 -->
