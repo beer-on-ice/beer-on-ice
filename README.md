@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">👍👍👍Make Javascript Great Again👍👍👍</h1>
 
-<h1 align="center">Hi There. 👋🤓  <img align="center" src="https://profile-counter.glitch.me/beer-on-ice/count.svg" /></h1>
+<h2 align="center">Hi There. 👋🤓  <img align="center" src="https://profile-counter.glitch.me/beer-on-ice/count.svg" /></h2>
 <p>
  <img src="http://views.whatilearened.today/views/github/beer-on-ice/views.svg"/>
  <a href="https://github.com/beer-on-ice/"><img src="https://img.shields.io/github/followers/beer-on-ice?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
