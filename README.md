@@ -2,7 +2,12 @@
 <img src="https://telegra.ph/file/83592a3f35d636c09f3c4.png" alt="MistyHill" width="200" height="auto"  style="border-radius:50%;">
 </p>
 <!-- slogan -->
-<h1 align="center">👍👍👍Make Javascript Great Again👍👍👍 <br/><p>Hi There. 👋🤓  <img align="center" src="https://profile-counter.glitch.me/beer-on-ice/count.svg" /></p></h1>
+<h1 align="center">
+  <p>👍👍👍Make Javascript Great Again👍👍👍</p>
+  <br/>
+  <br/>
+  <p>Hi There. 👋🤓  <img align="center" src="https://profile-counter.glitch.me/beer-on-ice/count.svg" /></p>
+</h1>
 
 <!-- 动态打字效果 -->
 <!-- <h1 align="center">
