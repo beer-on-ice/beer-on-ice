@@ -83,12 +83,6 @@
 
 ![Languages](https://readme-steel.vercel.app/api/top-langs/?username=beer-on-ice&&show_icons=true&hide_border=true&theme=graywhite&layout=compact&langs_count=8&exclude_repo=CloudflareWarp)
 
-### 🎮🕹 Games
-[<img src="https://img.shields.io/badge/playstation-%23107C10.svg?&style=for-the-badge&logo=playstation&logoColor=white" />](https://missss.net/)
-[<img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />](https://missss.net/)
-[<img src="https://img.shields.io/badge/Origin-%83000000.svg?&style=for-the-badge&logo=origin&logoColor=white" />](https://missss.net/)
-[<img src="https://img.shields.io/badge/Bilzzard-%12000000.svg?&style=for-the-badge&logo=bilzzard&logoColor=white" />](https://missss.net/)
-
 ### 📫 Reach me 
 
 - 💬 Ask me about anything.
@@ -96,6 +90,12 @@
 - 💼 <a href= "https://nav.orcat.cn/">导航</a>
 - ☁️ <a href = "https://store.orcat.cn/">云盘</a>
 - 📖 <a href = "https://blog.orcat.cn/">Blog</a>
+
+### 🎮🕹 Games
+[<img src="https://img.shields.io/badge/playstation-%23107C10.svg?&style=for-the-badge&logo=playstation&logoColor=white" />](https://orcat.cn/)
+[<img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />](https://orcat.cn/)
+[<img src="https://img.shields.io/badge/Origin-%83000000.svg?&style=for-the-badge&logo=origin&logoColor=white" />](https://orcat.cn/)
+[<img src="https://img.shields.io/badge/Bilzzard-%12000000.svg?&style=for-the-badge&logo=bilzzard&logoColor=white" />](https://orcat.cn/)
 
 <details>
 
