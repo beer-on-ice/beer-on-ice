@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: beer-on-ice/social-readme@master
         with:
-          blog_rss_link: https://sunguoqi.com/atom.xml     #your blog rss link
+          blog_rss_link: https://ly.565869.xyz/atom.xml     #your blog rss link
           blog_limit: 5 # blog数量
           douban_name: sun0225SUN    
           douban_limit: 5 # 豆瓣最新动态数量
