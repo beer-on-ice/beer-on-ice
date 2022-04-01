@@ -1,15 +1,16 @@
 <p align="center">
 <img src="https://telegra.ph/file/83592a3f35d636c09f3c4.png" alt="MistyHill" width="200" height="auto"  style="border-radius:50%;">
 </p>
+<!-- slogan -->
+<h1 align="center">👍👍👍Make Javascript Great Again👍👍👍</h1>
 
 <!-- 动态打字效果 -->
-<h1 align="center">
+<!-- <h1 align="center">
   <a href="https://orcat.cn/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Make\nJavascript\nGreat\nAgain&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Happy!&center=true&size=27">
   </a>
-</h1>
+</h1> -->
 
-<h1 align="center">👍👍👍Make Javascript Great Again👍👍👍</h1>
 <h2 align="center">Hi There. 👋🤓  <img align="center" src="https://profile-counter.glitch.me/beer-on-ice/count.svg" /></h2>
 <p>
  <img src="http://views.whatilearened.today/views/github/beer-on-ice/views.svg"/>
