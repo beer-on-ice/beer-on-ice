@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://telegra.ph/file/83592a3f35d636c09f3c4.png" alt="MistyHill" width="200" height="auto"  style="border-radius:50%;">
 </p>
-<h1 align="center">Profiles</h1>
+<h1 align="center">👍👍👍Make Javascript Great Again👍👍👍</h1>
 
 # Hi There. 👋🤓  <img align="center" src="https://profile-counter.glitch.me/beer-on-ice/count.svg" />
 <p>
@@ -24,7 +24,7 @@
  
 
 
-🎉欢迎来到我的Github!我是雾山😃。我热爱编程，是一名前端开发工程师，对前端开发、Linux、嵌入式和开源🔥充满热情。我喜欢探索和学习任何新事物❤️, 👍👍👍Make Javascript Great Again👍👍👍。
+🎉欢迎来到我的Github!我是雾山😃。我热爱编程，是一名前端开发工程师，对前端开发、Linux、嵌入式和开源🔥充满热情。我喜欢探索和学习任何新事物❤️, 。
 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/beer-on-ice/beer-on-ice/assets/github-contribution-grid-snake.svg" /></div>
 
