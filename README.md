@@ -4,7 +4,6 @@
 <h1 align="center">Profiles</h1>
 
 # Hi There. 👋🤓  <img align="center" src="https://profile-counter.glitch.me/beer-on-ice/count.svg" />
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/beer-on-ice/beer-on-ice/assets/github-contribution-grid-snake.svg" /></div>
 <p>
  <img src="http://views.whatilearened.today/views/github/beer-on-ice/views.svg"/>
  <a href="https://github.com/beer-on-ice/"><img src="https://img.shields.io/github/followers/beer-on-ice?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
@@ -26,6 +25,8 @@
 
 
 🎉欢迎来到我的Github!我是雾山😃。我热爱编程，是一名前端开发工程师，对前端开发、Linux、嵌入式和开源🔥充满热情。我喜欢探索和学习任何新事物❤️, 👍👍👍Make Javascript Great Again👍👍👍。
+
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/beer-on-ice/beer-on-ice/assets/github-contribution-grid-snake.svg" /></div>
 
 ### 👨‍💻 Open source work stats
 
