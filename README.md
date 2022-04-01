@@ -18,11 +18,8 @@
 
 🎉欢迎来到我的Github!我是雾山😃。我热爱编程，是一名前端开发工程师，对前端开发、Linux、嵌入式和开源🔥充满热情。我喜欢探索和学习任何新事物❤️, 。
 
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/beer-on-ice/beer-on-ice/assets/github-contribution-grid-snake.svg" /></div>
-
 <!-- 个人资料徽标 -->
-<p>
+<div align="center">
  <img src="http://views.whatilearened.today/views/github/beer-on-ice/views.svg"/>
  <a href="https://github.com/beer-on-ice/"><img src="https://img.shields.io/github/followers/beer-on-ice?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
  <a href="https://github.com/beer-on-ice/"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
@@ -38,7 +35,12 @@
  <a href="https://www.apple.com/"><img src="https://img.shields.io/badge/apple-iphone-f5010c?style=flat-square&logo=apple&logoColor=ffffff"></a>
  <a href="javascript:;"><img src="https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff"></a>
  <a href="javascript:;"><img src="https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff"></a>
-</p>
+</div>
+
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/beer-on-ice/beer-on-ice/assets/github-contribution-grid-snake.svg" /></div>
+
+
  
 
 ### 👨‍💻 Open source work stats
