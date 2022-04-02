@@ -89,6 +89,8 @@
 - ☁️ <a href = "https://store.orcat.cn/">云盘</a>
 - 📖 <a href = "https://blog.orcat.cn/">Blog</a>
 
+![我的 BiliBili 数据](https://stats.justsong.cn/api/bilibili/?id=14639347&theme=dark)
+![我的 ZhiHu 数据](https://stats.justsong.cn/api/zhihu?username=mistyhill&theme=dark)
 
 <details>
 
