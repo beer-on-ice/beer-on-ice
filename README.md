@@ -89,12 +89,6 @@
 - ☁️ <a href = "https://store.orcat.cn/">云盘</a>
 - 📖 <a href = "https://blog.orcat.cn/">Blog</a>
 
-### 🎮🕹 Games
-[<img src="https://img.shields.io/badge/playstation-%23107C10.svg?&style=for-the-badge&logo=playstation&logoColor=white" />](https://orcat.cn/)
-[<img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />](https://orcat.cn/)
-[<img src="https://img.shields.io/badge/Origin-%83000000.svg?&style=for-the-badge&logo=origin&logoColor=white" />](https://orcat.cn/)
-[<img src="https://img.shields.io/badge/Bilzzard-%12000000.svg?&style=for-the-badge&logo=bilzzard&logoColor=white" />](https://orcat.cn/)
-
 <details>
 
 <summary>📊 Weekly development breakdown</summary>
