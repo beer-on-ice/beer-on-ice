@@ -157,6 +157,4 @@ Windows                  1 hr 9 mins         ███████████�
 Welcome to do ⭐ my repository if you find it interesting, at least your star could make me stay on track and be motivated.
 
 <!-- plugin metrics -->
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/beer-on-ice/beer-on-ice/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
-</div>
