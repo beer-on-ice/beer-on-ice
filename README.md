@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://telegra.ph/file/83592a3f35d636c09f3c4.png" alt="MistyHill" width="200" height="auto"  style="border-radius:50%;">
+  <img src="https://telegra.ph/file/83592a3f35d636c09f3c4.png" alt="MistyHill" width="200" height="auto"  style="border-radius:50%;">
 </p>
 
 <!-- slogan -->
@@ -16,7 +16,7 @@
   </a>
 </h1> -->
 
-🎉欢迎来到我的Github!我是雾山😃。我热爱编程，是一名前端开发工程师，对前端开发、Linux、嵌入式和开源🔥充满热情。我喜欢探索和学习任何新事物❤️, 。
+🎉欢迎来到我的Github! 我是雾山😃。我热爱编程，是一名前端开发工程师，对前端开发、Linux、嵌入式和开源🔥充满热情。我喜欢探索和学习任何新事物❤️ 。
 
 <!-- 个人资料徽标 -->
 <div align="center">
@@ -47,11 +47,6 @@
 - 💼 <a href= "https://nav.orcat.cn/">导航</a>
 - ☁️ <a href = "https://store.orcat.cn/">云盘</a>
 - 📖 <a href = "https://blog.orcat.cn/">Blog</a>
-
-### 👨‍💻 Open source work stats
-
-![Stats](https://readme-steel.vercel.app/api?username=beer-on-ice&include_all_commits=true&hide_border=true&theme=kacho_ga) 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=beer-on-ice&theme=highcontrast) 
 
 ### ⚡ Technologies <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
@@ -107,7 +102,9 @@ HTML         14 mins         █████░░░░░░░░░░░░
 <!-- profile-3d-contrib -->
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
-
+### 👨‍💻 Open source work stats
+![Stats](https://readme-steel.vercel.app/api?username=beer-on-ice&include_all_commits=true&hide_border=true&theme=kacho_ga) 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=beer-on-ice&theme=highcontrast) 
 ![我的 BiliBili 数据](https://stats.justsong.cn/api/bilibili/?id=14639347&theme=dark)
 ![我的 ZhiHu 数据](https://stats.justsong.cn/api/zhihu?username=mistyhill&theme=dark)
 
