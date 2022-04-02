@@ -88,9 +88,16 @@
 
 ![Languages](https://readme-steel.vercel.app/api/top-langs/?username=beer-on-ice&&show_icons=true&hide_border=true&theme=graywhite&layout=compact&langs_count=8&exclude_repo=CloudflareWarp)
 
-<!-- 统计 -->
+
+<!-- wakatime 统计 -->
+<table align="center">
+<tr>
+<td valign="top">  
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+</td>
+</tr>
+</table>
 
 <!-- profile-3d-contrib -->
 ![](./profile-3d-contrib/profile-gitblock.svg)
