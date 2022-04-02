@@ -89,7 +89,6 @@
 - ☁️ <a href = "https://store.orcat.cn/">云盘</a>
 - 📖 <a href = "https://blog.orcat.cn/">Blog</a>
 
-<script src="https://gist.github.com/beer-on-ice/0aa9fdcabe80932ba841b3468484c03e.js"></script>
 
 <details>
 
