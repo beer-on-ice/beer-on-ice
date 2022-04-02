@@ -106,7 +106,7 @@ HTML         14 mins         █████░░░░░░░░░░░░
 
 </details>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 ![我的 BiliBili 数据](https://stats.justsong.cn/api/bilibili/?id=14639347&theme=dark)
 ![我的 ZhiHu 数据](https://stats.justsong.cn/api/zhihu?username=mistyhill&theme=dark)
