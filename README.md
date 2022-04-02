@@ -106,13 +106,20 @@ HTML         14 mins         █████░░░░░░░░░░░░
 
 </details>
 
+<!-- profile-3d-contrib -->
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
+<div align="center">
 ![我的 BiliBili 数据](https://stats.justsong.cn/api/bilibili/?id=14639347&theme=dark)
 ![我的 ZhiHu 数据](https://stats.justsong.cn/api/zhihu?username=mistyhill&theme=dark)
-
+</div>
 <!-- GitHub奖杯🏆 -->
 ## Analysis :point_down:
 ![](https://github-profile-trophy.vercel.app/?username=beer-on-ice&theme=flat&column=7&margin-w=10)
 
 Welcome to do ⭐ my repository if you find it interesting, at least your star could make me stay on track and be motivated.
+
+<!-- plugin metrics -->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/beer-on-ice/beer-on-ice/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
+</div>
