@@ -18,14 +18,6 @@
 
 🎉欢迎来到我的Github!我是雾山😃。我热爱编程，是一名前端开发工程师，对前端开发、Linux、嵌入式和开源🔥充满热情。我喜欢探索和学习任何新事物❤️, 。
 
-### 📫 Reach me 
-
-- 💬 Ask me about anything.
-- 📧 <a href="mailto:li997477295@outlook.com">Email</a>
-- 💼 <a href= "https://nav.orcat.cn/">导航</a>
-- ☁️ <a href = "https://store.orcat.cn/">云盘</a>
-- 📖 <a href = "https://blog.orcat.cn/">Blog</a>
-
 <!-- 个人资料徽标 -->
 <div align="center">
  <img src="http://views.whatilearened.today/views/github/beer-on-ice/views.svg"/>
@@ -48,6 +40,13 @@
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/beer-on-ice/beer-on-ice/assets/github-contribution-grid-snake.svg" /></div>
 
+### 📫 Reach me 
+
+- 💬 Ask me about anything.
+- 📧 <a href="mailto:li997477295@outlook.com">Email</a>
+- 💼 <a href= "https://nav.orcat.cn/">导航</a>
+- ☁️ <a href = "https://store.orcat.cn/">云盘</a>
+- 📖 <a href = "https://blog.orcat.cn/">Blog</a>
 
 ### 👨‍💻 Open source work stats
 
