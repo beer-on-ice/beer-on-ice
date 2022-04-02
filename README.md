@@ -40,13 +40,18 @@
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/beer-on-ice/beer-on-ice/assets/github-contribution-grid-snake.svg" /></div>
 
-### 📫 Reach me 
+<!-- 联系我 -->
+<details>
 
+<summary>📫 Reach me</summary>
+  
 - 💬 Ask me about anything.
 - 📧 <a href="mailto:li997477295@outlook.com">Email</a>
 - 💼 <a href= "https://nav.orcat.cn/">导航</a>
 - ☁️ <a href = "https://store.orcat.cn/">云盘</a>
 - 📖 <a href = "https://blog.orcat.cn/">Blog</a>
+  
+</details>
 
 ### ⚡ Technologies <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
@@ -84,20 +89,8 @@
 ![Languages](https://readme-steel.vercel.app/api/top-langs/?username=beer-on-ice&&show_icons=true&hide_border=true&theme=graywhite&layout=compact&langs_count=8&exclude_repo=CloudflareWarp)
 
 <!-- 统计 -->
-<details>
-
-<summary>📊 Weekly development breakdown</summary>
-
 <!--START_SECTION:waka-->
-```text
-Week: 26 March, 2022 - 01 April, 2022
-
-JavaScript   55 mins         ████████████████████░░░░░   79.69 % 
-HTML         14 mins         █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-```
 <!--END_SECTION:waka-->
-
-</details>
 
 <!-- profile-3d-contrib -->
 ![](./profile-3d-contrib/profile-gitblock.svg)
