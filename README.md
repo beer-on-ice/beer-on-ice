@@ -4,7 +4,7 @@
 
 <!-- slogan -->
 <h1 align="center">
-  <p>Hi There. 👋🤓  <img align="center" src="[[https://profile-counter.glitch.me/beer-on-ice/count.svg](https://count.getloli.com/get/@beer-on-ice?theme=asoul)](https://profile-counter.glitch.me/beer-on-ice/count.svg)" /></p>
+  <p>Hi There. 👋🤓  <img align="center" src="https://profile-counter.glitch.me/beer-on-ice/count.svg" /></p>
   <br/>
   <p>👍👍👍Make Javascript Great Again👍👍👍</p>
 </h1>
