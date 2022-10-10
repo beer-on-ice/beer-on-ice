@@ -4,7 +4,7 @@
 
 <!-- slogan -->
 <h1 align="center">
-  <p>Hi There. 👋🤓  <img align="center" src="https://profile-counter.glitch.me/beer-on-ice/count.svg" /></p>
+  <p>Hi There. 👋🤓  <img align="center" src="[https://profile-counter.glitch.me/beer-on-ice/count.svg](https://count.getloli.com/get/@beer-on-ice?theme=asoul)" /></p>
   <br/>
   <p>👍👍👍Make Javascript Great Again👍👍👍</p>
 </h1>
@@ -162,4 +162,4 @@ Welcome to do ⭐ my repository if you find it interesting, at least your star c
 
 <!-- plugin metrics -->
   <img src="https://cdn.jsdelivr.net/gh/beer-on-ice/beer-on-ice/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
-![beer-on-ice](https://count.getloli.com/get/@beer-on-ice?theme=asoul)
+
