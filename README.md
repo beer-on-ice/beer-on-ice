@@ -8,7 +8,9 @@
   <br/>
   <p>👍👍👍Make Javascript Great Again👍👍👍</p>
 </h1>
-<img align="center" src="https://count.getloli.com/get/@beer-on-ice?theme=asoul" alt="beer-on-ice" />
+
+<p align="center"><img align="center" src="https://count.getloli.com/get/@beer-on-ice?theme=asoul" alt="beer-on-ice" /></p>
+
 <!-- 动态打字效果 -->
 <!-- <h1 align="center">
   <a href="https://orcat.cn/">
