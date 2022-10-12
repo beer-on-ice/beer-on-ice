@@ -2,7 +2,11 @@
   <img src="https://telegra.ph/file/83592a3f35d636c09f3c4.png" alt="MistyHill" width="200" height="auto"  style="border-radius:50%;">
 </p>
 
+<p align="center">
+  
 ![打不开哦，挂个梯子看看吧](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=250&animation=fadeIn&section=header&text=%E9%9B%BE%E5%B1%B1&fontSize=68)
+  
+</p>
 
 <!-- slogan -->
 <h1 align="center">
