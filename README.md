@@ -8,12 +8,14 @@
 <h1 align="center">
   <p>Hi There. 👋🤓  <img align="center" src="https://profile-counter.glitch.me/beer-on-ice/count.svg" /></p>
   <br/>
-  <p>👍👍👍Make Javascript Great Again👍👍👍</p>
+  <p align="center">
+    <img align="center" src="https://count.getloli.com/get/@beer-on-ice?theme=asoul" alt="beer-on-ice" />
+  </p>
 </h1>
 
-<p align="center">
-<img align="center" src="https://count.getloli.com/get/@beer-on-ice?theme=asoul" alt="beer-on-ice" />
-</p>
+<h1 align="center">
+  <p align="center">👍👍👍Make Javascript Great Again👍👍👍</p>
+</h1>
 
 <!-- 动态打字效果 -->
 <!-- <h1 align="center">
