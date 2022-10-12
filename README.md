@@ -167,6 +167,7 @@ Mac                      2 hrs 47 mins       ████████░░░�
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=beer-on-ice&theme=highcontrast) 
 ![我的 BiliBili 数据](https://stats.justsong.cn/api/bilibili/?id=14639347&theme=dark)
 ![我的 ZhiHu 数据](https://stats.justsong.cn/api/zhihu?username=mistyhill&theme=dark)
+![bili-card](https://bilibili-readme-stats.vercel.app/api?id=14639347&card=pink)
 
 <!-- GitHub奖杯🏆 -->
 ## Analysis :point_down:
