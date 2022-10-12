@@ -1,8 +1,4 @@
-<p align="center">
-  
-![打不开哦，挂个梯子看看吧](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=250&animation=fadeIn&section=header&text=%E9%9B%BE%E5%B1%B1&fontSize=68)
-  
-</p>
+
 
 <p align="center">
   <img src="https://telegra.ph/file/83592a3f35d636c09f3c4.png" alt="MistyHill" width="200" height="auto"  style="border-radius:50%;">
@@ -15,7 +11,9 @@
   <p>👍👍👍Make Javascript Great Again👍👍👍</p>
 </h1>
 
-<p align="center"><img align="center" src="https://count.getloli.com/get/@beer-on-ice?theme=asoul" alt="beer-on-ice" /></p>
+<p align="center">
+<img align="center" src="https://count.getloli.com/get/@beer-on-ice?theme=asoul" alt="beer-on-ice" />
+</p>
 
 <!-- 动态打字效果 -->
 <!-- <h1 align="center">
@@ -52,6 +50,8 @@
 <details>
 
 <summary>📫 Reach me</summary>
+  
+  ![打不开哦，挂个梯子看看吧](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=250&animation=fadeIn&section=header&text=%E9%9B%BE%E5%B1%B1&fontSize=68)
   
 - 💬 Ask me about anything.
 - 📧 <a href="mailto:li997477295@outlook.com">Email</a>
