@@ -55,12 +55,15 @@
   
   ![打不开哦，挂个梯子看看吧](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=250&animation=fadeIn&section=header&text=%E9%9B%BE%E5%B1%B1&fontSize=68)
   
+  
 - 💬 Ask me about anything.
 - 📧 <a href="mailto:li997477295@outlook.com">Email</a>
-- 💼 <a href= "https://nav.orcat.cn/">导航</a>
-- ☁️ <a href = "https://store.orcat.cn/">云盘</a>
-- 📖 <a href = "https://blog.orcat.cn/">Blog</a>
+- 💼 <a href= "https://nav.mistyhill.ml/">导航</a>
+- ☁️ <a href = "https://store.mistyhill.ml/">云盘</a>
+- 📖 <a href = "https://blog.mistyhill.ml/">博客</a>
   
+![card](https://cdn.jsdelivr.net/gh/linux-jin/netease-cloud-music-card/card.svg)
+
 </details>
 
 ### ⚡ Technologies <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
