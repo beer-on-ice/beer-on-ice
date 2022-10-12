@@ -18,11 +18,11 @@
 </h1>
 
 <!-- 动态打字效果 -->
-<!-- <h1 align="center">
-  <a href="https://orcat.cn/">
+<!--  <h1 align="center">
+  <a href="https://nav.mistyhill.ml/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Happy!&center=true&size=27">
   </a>
-</h1> -->
+</h1>  -->
 
 🎉欢迎来到我的Github! 我是雾山😃。我热爱编程，是一名前端开发工程师，对前端开发、Linux、嵌入式和开源🔥充满热情。我喜欢探索和学习任何新事物❤️ 。
 
