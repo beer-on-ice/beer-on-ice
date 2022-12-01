@@ -176,3 +176,5 @@ Welcome to do ⭐ my repository if you find it interesting, at least your star c
 <!-- plugin metrics -->
   <img src="https://cdn.jsdelivr.net/gh/beer-on-ice/beer-on-ice/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
 
+
+### [回到顶部](https://github.com/beer-on-ice/beer-on-ice)
