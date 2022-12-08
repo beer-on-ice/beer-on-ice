@@ -10,7 +10,7 @@
   <p>Hi There. 👋🤓  <img align="center" src="https://profile-counter.glitch.me/beer-on-ice/count.svg" /></p>
   <br/>
   <p align="center">
-    <img align="center" src="https://count.ayaya.beauty/get/@beer-on-ice?theme=asoul" alt="beer-on-ice" />
+    <img align="center" src="https://count.mistyhill.ml/github" alt="beer-on-ice" />
   </p>
 </h1>
 
