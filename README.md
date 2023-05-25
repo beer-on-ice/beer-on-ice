@@ -55,7 +55,7 @@
   
   
 - 💬 Ask me about anything.
-- 📧 <a href="mailto:li997477295@outlook.com">Email</a>
+- 📧 <a href="mailto:mail@sob.im">Email</a>
 - 📖 <a href = "https://notion-blog.mistyhill.ml/">博客</a>
 - 💼 <a href= "https://notion-nav.mistyhill.ml/">导航</a>
 - ☁️ <a href = "https://list.mistyhill.ml/">云盘</a>
