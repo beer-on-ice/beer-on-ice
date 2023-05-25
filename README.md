@@ -56,9 +56,9 @@
   
 - 💬 Ask me about anything.
 - 📧 <a href="mailto:li997477295@outlook.com">Email</a>
-- 💼 <a href= "https://nav.mistyhill.ml/">导航</a>
-- ☁️ <a href = "https://store.mistyhill.ml/">云盘</a>
-- 📖 <a href = "https://blog.mistyhill.ml/">博客</a>
+- 📖 <a href = "https://notion-blog.mistyhill.ml/">博客</a>
+- 💼 <a href= "https://notion-nav.mistyhill.ml/">导航</a>
+- ☁️ <a href = "https://list.mistyhill.ml/">云盘</a>
   
 ![card](https://cdn.jsdelivr.net/gh/linux-jin/netease-cloud-music-card/card.svg)
 
