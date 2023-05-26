@@ -1,9 +1,3 @@
-
-
-<p align="center">
-  <img src="https://img.mistyhill.ml/file/d1a823aa65560923ea3bf.gif" alt="MistyHill" width="200" height="auto"  style="border-radius:50%;">
-</p>
-
 <!-- slogan -->
 <h1 align="center">
   <p>Hi There. 👋🤓  <img align="center" src="https://profile-counter.glitch.me/beer-on-ice/count.svg" /></p>
@@ -170,5 +164,10 @@ Welcome to do ⭐ my repository if you find it interesting, at least your star c
   <p align="center">
     <img align="center" src="https://count.mistyhill.ml/github" alt="beer-on-ice" />
   </p>
+  
+
+<p align="center">
+  <img src="https://img.mistyhill.ml/file/d1a823aa65560923ea3bf.gif" alt="MistyHill" width="200" height="auto"  style="border-radius:50%;">
+</p>
   
 ### [回到顶部](https://github.com/beer-on-ice/beer-on-ice)
