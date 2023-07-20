@@ -11,7 +11,7 @@
 
 <!-- 动态打字效果 -->
 <!--  <h1 align="center">
-  <a href="https://nav.mistyhill.ml/">
+  <a href="https://nav.sob.im/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Happy!&center=true&size=27">
   </a>
 </h1>  -->
@@ -50,9 +50,9 @@
   
 - 💬 Ask me about anything.
 - 📧 <a href="mailto:mail@sob.im">Email</a>
-- 📖 <a href = "https://notion-blog.mistyhill.ml/">博客</a>
-- 💼 <a href= "https://notion-nav.mistyhill.ml/">导航</a>
-- ☁️ <a href = "https://list.mistyhill.ml/">云盘</a>
+- 📖 <a href = "https://notion-blog.sob.im/">博客</a>
+- 💼 <a href= "https://notion-nav.sob.im/">导航</a>
+- ☁️ <a href = "https://list.sob.im/">云盘</a>
   
 ![card](https://cdn.jsdelivr.net/gh/linux-jin/netease-cloud-music-card/card.svg)
 
@@ -162,12 +162,12 @@ Welcome to do ⭐ my repository if you find it interesting, at least your star c
   <img src="https://cdn.jsdelivr.net/gh/beer-on-ice/beer-on-ice/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
 
   <p align="center">
-    <img align="center" src="https://count.mistyhill.ml/github" alt="beer-on-ice" />
+    <img align="center" src="https://count.sob.im/github" alt="beer-on-ice" />
   </p>
   
 
 <p align="center">
-  <img src="https://img.mistyhill.ml/file/d1a823aa65560923ea3bf.gif" alt="MistyHill" width="200" height="auto"  style="border-radius:50%;">
+  <img src="https://img.sob.im/file/d1a823aa65560923ea3bf.gif" alt="MistyHill" width="200" height="auto"  style="border-radius:50%;">
 </p>
   
 ### [回到顶部](https://github.com/beer-on-ice/beer-on-ice)
