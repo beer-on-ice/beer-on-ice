@@ -11,7 +11,6 @@
 
 
 <h3 align="center">
-  <p>🎉欢迎来到我的Github! 我是雾山😃。我热爱编程，是一名前端开发工程师，对前端开发、Linux、嵌入式和开源🔥充满热情。我喜欢探索和学习任何新事物❤️ 。</p>
   <!-- 个人资料徽标 -->
   <div align="center">
    <img src="http://views.whatilearened.today/views/github/beer-on-ice/views.svg"/>
@@ -30,6 +29,8 @@
    <a href="javascript:;"><img src="https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff"></a>
    <a href="javascript:;"><img src="https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff"></a>
   </div>
+  <br/>
+  <p>🎉欢迎来到我的Github! 我是雾山😃。我热爱编程，是一名前端开发工程师，对前端开发、Linux、嵌入式和开源🔥充满热情。我喜欢探索和学习任何新事物❤️ 。</p>
 </h3>
 
 <!-- 动态打字效果 -->
