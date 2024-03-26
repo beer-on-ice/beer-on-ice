@@ -98,7 +98,7 @@
 <!-- wakatime 统计 -->
 <table align="left">
 <tr>
-<td valign="top">  
+<td align="top">  
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
@@ -140,10 +140,13 @@ No Activity Tracked This Week
  Last Updated on 26/03/2024 01:22:46 UTC
 <!--END_SECTION:waka-->
 </td>
+<td>
+  <img src="https://cdn.jsdelivr.net/gh/linux-jin/netease-cloud-music-card/card.svg" alt="MistyHill" >
+</td>
 </tr>
 </table>
 
-![我的 Netease 数据](https://cdn.jsdelivr.net/gh/linux-jin/netease-cloud-music-card/card.svg)
+
 
 <!-- profile-3d-contrib -->
 ![](./profile-3d-contrib/profile-gitblock.svg)
