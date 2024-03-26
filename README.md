@@ -81,9 +81,9 @@
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-AB2B28?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![GNU Emacs](http://img.shields.io/badge/-GNU%20Emacs-7F5AB6?style=flat-square&logo=gnu-emacs&logoColor=ffffff)
 
-<!-- 贪吃蛇代码贡献图 -->
+<!-- 贪吃蛇代码贡献图 
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/beer-on-ice/beer-on-ice/assets/github-contribution-grid-snake.gif" /></div>
-
+-->
 </details>
 
 ### 👨‍💻 Open source work stats
