@@ -38,7 +38,7 @@
 </div>
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/beer-on-ice/beer-on-ice/assets/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/beer-on-ice/beer-on-ice/assets/github-contribution-grid-snake.gif" /></div>
 
 <!-- 联系我 -->
 <details>
