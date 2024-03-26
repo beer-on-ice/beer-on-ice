@@ -141,8 +141,9 @@ No Activity Tracked This Week
 <!--END_SECTION:waka-->
 </td>
 <td>
-  <img src="https://cdn.jsdelivr.net/gh/linux-jin/netease-cloud-music-card/card.svg" alt="MistyHill" >
-  <img src="https://stats.justsong.cn/api/juejin?id=96412752946824&theme=dark" alt="MistyHill" >
+  <img src="https://cdn.jsdelivr.net/gh/linux-jin/netease-cloud-music-card/card.svg" alt="Netease" >
+  <img src="https://stats.justsong.cn/api/juejin?id=96412752946824&theme=dark" alt="JueJin" >
+  <img src="https://stats.justsong.cn/api/bilibili/?id=14639347&theme=dark" alt="BiliBili" >
 </td>
 </tr>
 </table>
