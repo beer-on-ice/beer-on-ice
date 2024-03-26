@@ -97,7 +97,7 @@
 <br/>
 
 <!-- wakatime 统计 -->
-<table align="left" paddingTop='120'>
+<table align="left"  >
 <tr>
 <td align="top">  
 <!--START_SECTION:waka-->
