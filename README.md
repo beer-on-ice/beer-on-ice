@@ -39,25 +39,16 @@
   </a>
 </h1>  -->
 
-
-
-
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/beer-on-ice/beer-on-ice/assets/github-contribution-grid-snake.gif" /></div>
-
 <!-- 联系我 -->
 <details>
 
-<summary>📫 Reach me</summary>
+<summary>📫 联系我</summary>
+
 - 💬 Ask me about anything.
 - 📧 <a href="mailto:mail@sob.im">Email</a>
 - 📖 <a href = "https://notion-blog.sob.im/">博客</a>
 - 💼 <a href= "https://notion-nav.sob.im/">导航</a>
 - ☁️ <a href = "https://list.sob.im/">云盘</a>
-  
-![card](https://cdn.jsdelivr.net/gh/linux-jin/netease-cloud-music-card/card.svg)
-
-</details>
 
 ### ⚡ Technologies <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
@@ -89,14 +80,22 @@
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-AB2B28?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![GNU Emacs](http://img.shields.io/badge/-GNU%20Emacs-7F5AB6?style=flat-square&logo=gnu-emacs&logoColor=ffffff)
 
-<!-- <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'> -->
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/beer-on-ice/beer-on-ice/assets/github-contribution-grid-snake.gif" /></div>
+
+</details>
+
+### 👨‍💻 Open source work stats
+![Stats](https://readme-steel.vercel.app/api?username=beer-on-ice&include_all_commits=true&hide_border=true&theme=kacho_ga) 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=beer-on-ice&theme=highcontrast) 
+
 <img align='right' alt="Banner | JeanCarlos911" src="https://i.imgur.com/34fiEUG.gif"  width='auto"'/>
 
 ![Languages](https://readme-steel.vercel.app/api/top-langs/?username=beer-on-ice&&show_icons=true&hide_border=true&theme=graywhite&layout=compact&langs_count=8&exclude_repo=CloudflareWarp)
 
 
 <!-- wakatime 统计 -->
-<table align="center">
+<table align="left">
 <tr>
 <td valign="top">  
 <!--START_SECTION:waka-->
@@ -143,32 +142,31 @@ No Activity Tracked This Week
 </tr>
 </table>
 
+![我的 Netease 数据](https://cdn.jsdelivr.net/gh/linux-jin/netease-cloud-music-card/card.svg)
+
 <!-- profile-3d-contrib -->
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
-### 👨‍💻 Open source work stats
-![Stats](https://readme-steel.vercel.app/api?username=beer-on-ice&include_all_commits=true&hide_border=true&theme=kacho_ga) 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=beer-on-ice&theme=highcontrast) 
-![我的 BiliBili 数据](https://stats.justsong.cn/api/bilibili/?id=14639347&theme=dark)
-![我的 ZhiHu 数据](https://stats.justsong.cn/api/zhihu?username=mistyhill&theme=dark)
-![bili-card](https://bilibili-readme-stats.vercel.app/api?id=14639347&card=pink)
-
 <!-- GitHub奖杯🏆 -->
 ## Analysis :point_down:
-![](https://github-profile-trophy.vercel.app/?username=beer-on-ice&theme=flat&column=7&margin-w=10)
+![trophy](https://github-profile-trophy.vercel.app/?username=beer-on-ice&theme=onedark&column=9)
 
-Welcome to do ⭐ my repository if you find it interesting, at least your star could make me stay on track and be motivated.
+<!-- 
+![我的 BiliBili 数据](https://stats.justsong.cn/api/bilibili/?id=14639347&theme=dark)
+![我的 ZhiHu 数据](https://stats.justsong.cn/api/zhihu?username=mistyhill&theme=dark)
+![我的 JueJin 数据](https://stats.justsong.cn/api/juejin?id=96412752946824&theme=dark)
+-->
 
-<!-- plugin metrics -->
-  <img src="https://cdn.jsdelivr.net/gh/beer-on-ice/beer-on-ice/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
+<!-- 
+<img src="https://cdn.jsdelivr.net/gh/beer-on-ice/beer-on-ice/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
+-->
 
-  <p align="center">
-    <img align="center" src="https://count.sob.im/github" alt="beer-on-ice" />
-  </p>
-  
-
+<!-- 
 <p align="center">
   <img src="https://img.sob.im/file/d1a823aa65560923ea3bf.gif" alt="MistyHill" width="200" height="auto"  style="border-radius:50%;">
 </p>
-  
+-->
+
+Welcome to do ⭐ my repository if you find it interesting, at least your star could make me stay on track and be motivated.
+
 ### [回到顶部](https://github.com/beer-on-ice/beer-on-ice)
