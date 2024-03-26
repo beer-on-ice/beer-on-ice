@@ -9,7 +9,6 @@
   </a>
 </h1>
 
-
 <h3 align="center">
   <!-- 个人资料徽标 -->
   <div align="center">
@@ -45,7 +44,7 @@
 
 <summary>📫 联系我</summary>
 
-- 💬 <a href="https://tg.sob.im/#856146798/">私信</a>.
+- 💬 <a href="https://tg.sob.im/#856146798/">私信</a>
 - 📧 <a href="mailto:mail@sob.im">Email</a>
 - 📖 <a href="https://notion-blog.sob.im/">博客</a>
 - 💼 <a href="https://notion-nav.sob.im/">导航</a>
@@ -90,10 +89,13 @@
 ![Stats](https://readme-steel.vercel.app/api?username=beer-on-ice&include_all_commits=true&hide_border=true&theme=kacho_ga) 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=beer-on-ice&theme=highcontrast) 
 
-<img align='right' alt="Banner | JeanCarlos911" src="https://i.imgur.com/34fiEUG.gif"  width='auto"'/>
+<div align='center'>
+  <img align='left' alt="Banner | JeanCarlos911" src="https://readme-steel.vercel.app/api/top-langs/?username=beer-on-ice&&show_icons=true&hide_border=true&theme=graywhite&layout=compact&langs_count=8&exclude_repo=CloudflareWarp"  width='38%'/>
+  <img align='right' alt="Banner | JeanCarlos911" src="https://i.imgur.com/34fiEUG.gif"  width='56%'/>
+</div>
 
-![Languages](https://readme-steel.vercel.app/api/top-langs/?username=beer-on-ice&&show_icons=true&hide_border=true&theme=graywhite&layout=compact&langs_count=8&exclude_repo=CloudflareWarp)
-
+<br/>
+<br/>
 
 <!-- wakatime 统计 -->
 <table align="left">
@@ -147,8 +149,6 @@ No Activity Tracked This Week
 </td>
 </tr>
 </table>
-
-
 
 <!-- profile-3d-contrib -->
 ![](./profile-3d-contrib/profile-gitblock.svg)
