@@ -94,9 +94,10 @@
  <img align='right' alt="Banner | JeanCarlos911" src="https://github-readme-streak-stats.herokuapp.com/?user=beer-on-ice&theme=highcontrast"  width='48%'  height='200'/>
 </div>
 
+<br/>
 
 <!-- wakatime 统计 -->
-<table align="left">
+<table align="left" paddingTop='120'>
 <tr>
 <td align="top">  
 <!--START_SECTION:waka-->
