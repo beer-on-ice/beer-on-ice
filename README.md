@@ -87,18 +87,13 @@
 
 ### 👨‍💻 Open source work stats
 <div align='center'>
-  <img align='left' alt="Banner | JeanCarlos911" src="https://readme-steel.vercel.app/api?username=beer-on-ice&include_all_commits=true&hide_border=true&theme=kacho_ga"  width='480'/>
-  <img align='right' alt="Banner | JeanCarlos911" src="https://github-readme-streak-stats.herokuapp.com/?user=beer-on-ice&theme=highcontrast"  width='480'/>
+  <img align='left' alt="Banner | JeanCarlos911" src="https://readme-steel.vercel.app/api?username=beer-on-ice&include_all_commits=true&hide_border=true&theme=kacho_ga"  width='480'  height='200'/>
+  <img align='right' alt="Banner | JeanCarlos911" src="https://readme-steel.vercel.app/api/top-langs/?username=beer-on-ice&&show_icons=true&hide_border=true&theme=graywhite&layout=compact&langs_count=8&exclude_repo=CloudflareWarp"  width='480' height='200'/>
+  <br/>
+  <img align='left' alt="Banner | JeanCarlos911" src="https://i.imgur.com/34fiEUG.gif"  width='480'  height='230'/>
+ <img align='right' alt="Banner | JeanCarlos911" src="https://github-readme-streak-stats.herokuapp.com/?user=beer-on-ice&theme=highcontrast"  width='480'  height='200'/>
 </div>
 
-<div width="100%" height="3%"/>
-
-<div align='center' >
-  <img align='left' alt="Banner | JeanCarlos911" src="https://readme-steel.vercel.app/api/top-langs/?username=beer-on-ice&&show_icons=true&hide_border=true&theme=graywhite&layout=compact&langs_count=8&exclude_repo=CloudflareWarp"  width='38%'/>
-  <img align='right' alt="Banner | JeanCarlos911" src="https://i.imgur.com/34fiEUG.gif"  width='56%'/>
-</div>
-
-<div width="100%"  height="3%"/>
 
 <!-- wakatime 统计 -->
 <table align="left">
