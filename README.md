@@ -142,6 +142,7 @@ No Activity Tracked This Week
 </td>
 <td>
   <img src="https://cdn.jsdelivr.net/gh/linux-jin/netease-cloud-music-card/card.svg" alt="MistyHill" >
+  <img src="https://stats.justsong.cn/api/juejin?id=96412752946824&theme=dark" alt="MistyHill" >
 </td>
 </tr>
 </table>
