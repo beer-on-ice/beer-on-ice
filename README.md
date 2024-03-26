@@ -45,11 +45,11 @@
 
 <summary>📫 联系我</summary>
 
-- 💬 Ask me about anything.
+- 💬 <a href="https://tg.sob.im/#856146798/">私信</a>.
 - 📧 <a href="mailto:mail@sob.im">Email</a>
-- 📖 <a href = "https://notion-blog.sob.im/">博客</a>
-- 💼 <a href= "https://notion-nav.sob.im/">导航</a>
-- ☁️ <a href = "https://list.sob.im/">云盘</a>
+- 📖 <a href="https://notion-blog.sob.im/">博客</a>
+- 💼 <a href="https://notion-nav.sob.im/">导航</a>
+- ☁️ <a href="https://list.sob.im/">云盘</a>
 
 ### ⚡ Technologies <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
