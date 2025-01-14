@@ -4,7 +4,7 @@
   <br/>
   <p align="center">👍👍👍Make Javascript Great Again👍👍👍</p>
   <br/>
-  <a href="https://nav.sob.im/">
+  <a href="https://nav.666986.xyz/">
     <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=250&animation=fadeIn&section=header&text=%E9%9B%BE%E5%B1%B1&fontSize=68">
   </a>
 </h1>
@@ -34,7 +34,7 @@
 
 <!-- 动态打字效果 -->
 <!--  <h1 align="center">
-  <a href="https://nav.sob.im/">
+  <a href="https://nav.666986.xyz/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Happy!&center=true&size=27">
   </a>
 </h1>  -->
@@ -44,11 +44,11 @@
 
 <summary>📫 联系我</summary>
 
-- 💬 <a href="https://tg.sob.im/#856146798/">私信</a>
-- 📧 <a href="mailto:mail@sob.im">Email</a>
-- 📖 <a href="https://notion-blog.sob.im/">博客</a>
-- 💼 <a href="https://notion-nav.sob.im/">导航</a>
-- ☁️ <a href="https://list.sob.im/">云盘</a>
+- 💬 <a href="https://t.me/frank/">私信</a>
+- 📧 <a href="mailto:mistyhills53@gmail.com">Email</a>
+- 📖 <a href="https://talk.666986.xyz/">博客</a>
+- 💼 <a href="https://notion-nav.666986.xyz/">导航</a>
+- ☁️ <a href="https://nas.666986.xyz:8443/">云盘</a>
 
 ### ⚡ Technologies <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
@@ -168,7 +168,7 @@ No Activity Tracked This Week
 
 <!-- 
 <p align="center">
-  <img src="https://img.sob.im/file/d1a823aa65560923ea3bf.gif" alt="MistyHill" width="200" height="auto"  style="border-radius:50%;">
+  <img src="https://imgs.666986.xyz/file/d1a823aa65560923ea3bf.gif" alt="MistyHill" width="200" height="auto"  style="border-radius:50%;">
 </p>
 -->
 
